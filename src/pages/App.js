@@ -9,7 +9,7 @@ export default function App() {
   return (
        <div>
       <Header/>
-      <p className='h1'>Enter Customer details </p>
+      <h2>Enter Customer details</h2>
       <hr/>
       <BrandInformation/>
       <GeneralInformation/>

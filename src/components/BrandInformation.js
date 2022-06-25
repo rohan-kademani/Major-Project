@@ -3,7 +3,7 @@ import React from 'react'
 export default function BrandInformation() {
   return (
     <div>
-        <p className='h3'>Brand Information</p><hr/>
+        <h3 className='mt-2'>Brand Information</h3><hr/>
       <div className='container mt-5'>
       <div className='row'>
         <div className='col'>Tier code</div>
